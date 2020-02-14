@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricShapesFinal", "GeometricShapesFinal.csproj", "{0B46D1A5-7BAF-4BF9-ADBE-713FB2909B84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesDataLayer", "business\ShapeDataLayer\ShapesDataLayer.csproj", "{8F253F2E-2F52-4AFE-8509-21B9F1C0B6ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{60AD8D62-5D38-4F83-B77C-43D916EBC0FB}"
+	ProjectSection(SolutionItems) = preProject
+		data\ShapesDataBase.xml = data\ShapesDataBase.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B46D1A5-7BAF-4BF9-ADBE-713FB2909B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B46D1A5-7BAF-4BF9-ADBE-713FB2909B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B46D1A5-7BAF-4BF9-ADBE-713FB2909B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B46D1A5-7BAF-4BF9-ADBE-713FB2909B84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F253F2E-2F52-4AFE-8509-21B9F1C0B6ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F253F2E-2F52-4AFE-8509-21B9F1C0B6ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F253F2E-2F52-4AFE-8509-21B9F1C0B6ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F253F2E-2F52-4AFE-8509-21B9F1C0B6ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {017EBB9A-567C-4254-AC8E-F7A4CE7D52D7}
+	EndGlobalSection
+EndGlobal

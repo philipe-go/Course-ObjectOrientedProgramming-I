@@ -1,0 +1,11 @@
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentApp\bin\Debug\netcoreapp2.1\StudentApp.deps.json
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentApp\bin\Debug\netcoreapp2.1\StudentApp.runtimeconfig.json
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentApp\bin\Debug\netcoreapp2.1\StudentApp.runtimeconfig.dev.json
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentApp\bin\Debug\netcoreapp2.1\StudentApp.dll
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentApp\bin\Debug\netcoreapp2.1\StudentApp.pdb
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentApp\obj\Debug\netcoreapp2.1\StudentApp.csprojAssemblyReference.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentApp\obj\Debug\netcoreapp2.1\StudentApp.csproj.CoreCompileInputs.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentApp\obj\Debug\netcoreapp2.1\StudentApp.AssemblyInfoInputs.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentApp\obj\Debug\netcoreapp2.1\StudentApp.AssemblyInfo.cs
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentApp\obj\Debug\netcoreapp2.1\StudentApp.dll
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentApp\obj\Debug\netcoreapp2.1\StudentApp.pdb

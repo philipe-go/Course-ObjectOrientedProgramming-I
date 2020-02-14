@@ -1,0 +1,14 @@
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\client\2TiersApp\bin\Debug\netcoreapp2.1\2TiersApp.deps.json
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\client\2TiersApp\bin\Debug\netcoreapp2.1\2TiersApp.runtimeconfig.json
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\client\2TiersApp\bin\Debug\netcoreapp2.1\2TiersApp.runtimeconfig.dev.json
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\client\2TiersApp\bin\Debug\netcoreapp2.1\2TiersApp.dll
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\client\2TiersApp\bin\Debug\netcoreapp2.1\2TiersApp.pdb
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\client\2TiersApp\bin\Debug\netcoreapp2.1\2TiersClassLibrary.dll
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\client\2TiersApp\bin\Debug\netcoreapp2.1\2TiersClassLibrary.pdb
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\client\2TiersApp\obj\Debug\netcoreapp2.1\2TiersApp.csprojAssemblyReference.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\client\2TiersApp\obj\Debug\netcoreapp2.1\2TiersApp.csproj.CoreCompileInputs.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\client\2TiersApp\obj\Debug\netcoreapp2.1\2TiersApp.AssemblyInfoInputs.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\client\2TiersApp\obj\Debug\netcoreapp2.1\2TiersApp.AssemblyInfo.cs
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\client\2TiersApp\obj\Debug\netcoreapp2.1\2TiersApp.csproj.CopyComplete
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\client\2TiersApp\obj\Debug\netcoreapp2.1\2TiersApp.dll
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\client\2TiersApp\obj\Debug\netcoreapp2.1\2TiersApp.pdb

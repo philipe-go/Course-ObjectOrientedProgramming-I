@@ -1,0 +1,6 @@
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\MyBikesFactory_V0\BikesFactoryBusiness\bin\Debug\BikesFactoryBusiness.dll
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\MyBikesFactory_V0\BikesFactoryBusiness\bin\Debug\BikesFactoryBusiness.pdb
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\MyBikesFactory_V0\BikesFactoryBusiness\obj\Debug\BikesFactoryBusiness.csprojAssemblyReference.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\MyBikesFactory_V0\BikesFactoryBusiness\obj\Debug\BikesFactoryBusiness.csproj.CoreCompileInputs.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\MyBikesFactory_V0\BikesFactoryBusiness\obj\Debug\BikesFactoryBusiness.dll
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\MyBikesFactory_V0\BikesFactoryBusiness\obj\Debug\BikesFactoryBusiness.pdb

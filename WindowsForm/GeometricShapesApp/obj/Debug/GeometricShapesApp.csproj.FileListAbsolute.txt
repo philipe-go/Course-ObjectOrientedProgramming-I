@@ -1,0 +1,10 @@
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\GeometricShapesApp\bin\Debug\GeometricShapesApp.exe.config
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\GeometricShapesApp\bin\Debug\GeometricShapesApp.exe
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\GeometricShapesApp\bin\Debug\GeometricShapesApp.pdb
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\GeometricShapesApp\obj\Debug\GeometricShapesApp.csprojAssemblyReference.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\GeometricShapesApp\obj\Debug\GeometricShapesApp.Form1.resources
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\GeometricShapesApp\obj\Debug\GeometricShapesApp.Properties.Resources.resources
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\GeometricShapesApp\obj\Debug\GeometricShapesApp.csproj.GenerateResource.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\GeometricShapesApp\obj\Debug\GeometricShapesApp.csproj.CoreCompileInputs.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\GeometricShapesApp\obj\Debug\GeometricShapesApp.exe
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\GeometricShapesApp\obj\Debug\GeometricShapesApp.pdb

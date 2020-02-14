@@ -1,0 +1,10 @@
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\LibraryManagApp\bin\Debug\LibraryManagApp.exe.config
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\LibraryManagApp\bin\Debug\LibraryManagApp.exe
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\LibraryManagApp\bin\Debug\LibraryManagApp.pdb
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\LibraryManagApp\obj\Debug\LibraryManagApp.csprojAssemblyReference.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\LibraryManagApp\obj\Debug\LibraryManagApp.Form1.resources
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\LibraryManagApp\obj\Debug\LibraryManagApp.Properties.Resources.resources
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\LibraryManagApp\obj\Debug\LibraryManagApp.csproj.GenerateResource.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\LibraryManagApp\obj\Debug\LibraryManagApp.csproj.CoreCompileInputs.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\LibraryManagApp\obj\Debug\LibraryManagApp.exe
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\LibraryManagApp\obj\Debug\LibraryManagApp.pdb

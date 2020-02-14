@@ -1,0 +1,13 @@
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\Practice\GeometricShapesFinal\obj\Debug\GeometricShapesFinal.csprojAssemblyReference.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\Practice\GeometricShapesFinal\obj\Debug\GeometricShapesFinal.Form1.resources
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\Practice\GeometricShapesFinal\obj\Debug\GeometricShapesFinal.Properties.Resources.resources
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\Practice\GeometricShapesFinal\obj\Debug\GeometricShapesFinal.csproj.GenerateResource.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\Practice\GeometricShapesFinal\obj\Debug\GeometricShapesFinal.csproj.CoreCompileInputs.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\Practice\GeometricShapesFinal\bin\Debug\GeometricShapesFinal.exe.config
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\Practice\GeometricShapesFinal\bin\Debug\GeometricShapesFinal.exe
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\Practice\GeometricShapesFinal\bin\Debug\GeometricShapesFinal.pdb
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\Practice\GeometricShapesFinal\bin\Debug\ShapeDataLayer.dll
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\Practice\GeometricShapesFinal\bin\Debug\ShapeDataLayer.pdb
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\Practice\GeometricShapesFinal\obj\Debug\GeometricShapesFinal.csproj.CopyComplete
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\Practice\GeometricShapesFinal\obj\Debug\GeometricShapesFinal.exe
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\Practice\GeometricShapesFinal\obj\Debug\GeometricShapesFinal.pdb

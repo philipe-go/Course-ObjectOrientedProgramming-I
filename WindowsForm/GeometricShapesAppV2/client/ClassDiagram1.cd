@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GeometricShapesApp.business.Shapes" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAAEAAIAAAQCAAAEAACAAAAAgAAAAAA=</HashCode>
+      <FileName>business\shapes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeometricShapesApp.business.Circle" Collapsed="true">
+    <Position X="1.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAECAAAAIAEAAIAAAACAAAEAACAAAAAgAAAABA=</HashCode>
+      <FileName>business\circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeometricShapesApp.business.Rectangle" Collapsed="true">
+    <Position X="1.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>business\rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeometricShapesApp.business.Triangle" Collapsed="true">
+    <Position X="1.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>business\triangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeometricShapesApp.business.ShapesIn2D" Collapsed="true">
+    <Position X="1.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>business\shapesIn2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeometricShapesApp.business.ShapesIn3D" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>business\shapesIn3D.cs</FileName>
+      <NewMemberFileName>business\ShapesIn3D.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeometricShapesApp.business.Cube" Collapsed="true">
+    <Position X="6" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>business\cube.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeometricShapesApp.business.Sphere" Collapsed="true">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>business\sphere.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeometricShapesApp.business.cylinder" Collapsed="true">
+    <Position X="6" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>business\cylinder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="GeometricShapesApp.shapeColor" Collapsed="true">
+    <Position X="1.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAIAAAAAAEUAAAAAIEAAAAAAAAAAAAIAAAAAAABgA=</HashCode>
+      <FileName>business\shapeColor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GeometricShapesApp.shapeName" Collapsed="true">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIAAAAAAgBAAAAAAACSAAAAAABAAAAAAAAAAAIAA=</HashCode>
+      <FileName>business\shapeName.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

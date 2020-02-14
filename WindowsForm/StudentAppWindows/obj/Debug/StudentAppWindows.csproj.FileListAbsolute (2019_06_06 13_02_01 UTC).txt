@@ -1,0 +1,10 @@
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentAppWindows\bin\Debug\StudentAppWindows.exe.config
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentAppWindows\bin\Debug\StudentAppWindows.exe
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentAppWindows\bin\Debug\StudentAppWindows.pdb
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentAppWindows\obj\Debug\StudentAppWindows.csprojAssemblyReference.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentAppWindows\obj\Debug\StudentAppWindows.Form1.resources
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentAppWindows\obj\Debug\StudentAppWindows.Properties.Resources.resources
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentAppWindows\obj\Debug\StudentAppWindows.csproj.GenerateResource.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentAppWindows\obj\Debug\StudentAppWindows.csproj.CoreCompileInputs.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentAppWindows\obj\Debug\StudentAppWindows.exe
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\StudentAppWindows\obj\Debug\StudentAppWindows.pdb

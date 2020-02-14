@@ -1,0 +1,9 @@
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\business\2TiersClassLibrary\bin\Debug\netstandard2.0\2TiersClassLibrary.deps.json
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\business\2TiersClassLibrary\bin\Debug\netstandard2.0\2TiersClassLibrary.dll
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\business\2TiersClassLibrary\bin\Debug\netstandard2.0\2TiersClassLibrary.pdb
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\business\2TiersClassLibrary\obj\Debug\netstandard2.0\2TiersClassLibrary.csprojAssemblyReference.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\business\2TiersClassLibrary\obj\Debug\netstandard2.0\2TiersClassLibrary.csproj.CoreCompileInputs.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\business\2TiersClassLibrary\obj\Debug\netstandard2.0\2TiersClassLibrary.AssemblyInfoInputs.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\business\2TiersClassLibrary\obj\Debug\netstandard2.0\2TiersClassLibrary.AssemblyInfo.cs
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\business\2TiersClassLibrary\obj\Debug\netstandard2.0\2TiersClassLibrary.dll
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\2TiersApp\business\2TiersClassLibrary\obj\Debug\netstandard2.0\2TiersClassLibrary.pdb

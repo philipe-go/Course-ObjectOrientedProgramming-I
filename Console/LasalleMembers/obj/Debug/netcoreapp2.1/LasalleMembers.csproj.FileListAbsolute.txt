@@ -1,0 +1,11 @@
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\LasalleMembers\bin\Debug\netcoreapp2.1\LasalleMembers.deps.json
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\LasalleMembers\bin\Debug\netcoreapp2.1\LasalleMembers.runtimeconfig.json
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\LasalleMembers\bin\Debug\netcoreapp2.1\LasalleMembers.runtimeconfig.dev.json
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\LasalleMembers\bin\Debug\netcoreapp2.1\LasalleMembers.dll
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\LasalleMembers\bin\Debug\netcoreapp2.1\LasalleMembers.pdb
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\LasalleMembers\obj\Debug\netcoreapp2.1\LasalleMembers.csprojAssemblyReference.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\LasalleMembers\obj\Debug\netcoreapp2.1\LasalleMembers.csproj.CoreCompileInputs.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\LasalleMembers\obj\Debug\netcoreapp2.1\LasalleMembers.AssemblyInfoInputs.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\LasalleMembers\obj\Debug\netcoreapp2.1\LasalleMembers.AssemblyInfo.cs
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\LasalleMembers\obj\Debug\netcoreapp2.1\LasalleMembers.dll
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\Console\LasalleMembers\obj\Debug\netcoreapp2.1\LasalleMembers.pdb

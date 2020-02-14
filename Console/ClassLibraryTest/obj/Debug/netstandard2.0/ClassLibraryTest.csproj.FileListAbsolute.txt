@@ -1,0 +1,9 @@
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\ClassLibs\ClassLibraryTest\bin\Debug\netstandard2.0\ClassLibraryTest.deps.json
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\ClassLibs\ClassLibraryTest\bin\Debug\netstandard2.0\ClassLibraryTest.dll
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\ClassLibs\ClassLibraryTest\bin\Debug\netstandard2.0\ClassLibraryTest.pdb
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\ClassLibs\ClassLibraryTest\obj\Debug\netstandard2.0\ClassLibraryTest.csprojAssemblyReference.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\ClassLibs\ClassLibraryTest\obj\Debug\netstandard2.0\ClassLibraryTest.csproj.CoreCompileInputs.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\ClassLibs\ClassLibraryTest\obj\Debug\netstandard2.0\ClassLibraryTest.AssemblyInfoInputs.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\ClassLibs\ClassLibraryTest\obj\Debug\netstandard2.0\ClassLibraryTest.AssemblyInfo.cs
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\ClassLibs\ClassLibraryTest\obj\Debug\netstandard2.0\ClassLibraryTest.dll
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\ClassLibs\ClassLibraryTest\obj\Debug\netstandard2.0\ClassLibraryTest.pdb

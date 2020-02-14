@@ -1,0 +1,9 @@
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\MyBikesFactory_V0\BikesFactoryData\obj\Debug\BikesFactoryData.csprojAssemblyReference.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\MyBikesFactory_V0\BikesFactoryData\obj\Debug\BikesFactoryData.csproj.CoreCompileInputs.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\MyBikesFactory_V0\BikesFactoryData\bin\Debug\BikesFactoryData.dll
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\MyBikesFactory_V0\BikesFactoryData\bin\Debug\BikesFactoryData.pdb
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\MyBikesFactory_V0\BikesFactoryData\bin\Debug\BikesFactoryBusiness.dll
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\MyBikesFactory_V0\BikesFactoryData\bin\Debug\BikesFactoryBusiness.pdb
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\MyBikesFactory_V0\BikesFactoryData\obj\Debug\BikesFactoryData.csproj.CopyComplete
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\MyBikesFactory_V0\BikesFactoryData\obj\Debug\BikesFactoryData.dll
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\WindowsForm\MyBikesFactory_V0\BikesFactoryData\obj\Debug\BikesFactoryData.pdb

@@ -1,0 +1,11 @@
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\CalculatorV1\obj\Debug\netcoreapp2.1\CalculatorV1.csprojAssemblyReference.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\CalculatorV1\obj\Debug\netcoreapp2.1\CalculatorV1.csproj.CoreCompileInputs.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\CalculatorV1\obj\Debug\netcoreapp2.1\CalculatorV1.AssemblyInfoInputs.cache
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\CalculatorV1\obj\Debug\netcoreapp2.1\CalculatorV1.AssemblyInfo.cs
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\CalculatorV1\bin\Debug\netcoreapp2.1\CalculatorV1.deps.json
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\CalculatorV1\bin\Debug\netcoreapp2.1\CalculatorV1.runtimeconfig.json
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\CalculatorV1\bin\Debug\netcoreapp2.1\CalculatorV1.runtimeconfig.dev.json
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\CalculatorV1\bin\Debug\netcoreapp2.1\CalculatorV1.dll
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\CalculatorV1\bin\Debug\netcoreapp2.1\CalculatorV1.pdb
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\CalculatorV1\obj\Debug\netcoreapp2.1\CalculatorV1.dll
+D:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming\CalculatorV1\obj\Debug\netcoreapp2.1\CalculatorV1.pdb
