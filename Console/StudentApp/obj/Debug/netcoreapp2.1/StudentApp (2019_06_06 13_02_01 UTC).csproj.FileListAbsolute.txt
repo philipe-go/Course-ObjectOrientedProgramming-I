@@ -1,6 +1,0 @@
-d:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming1\Console\StudentApp\obj\Debug\netcoreapp2.1\StudentApp (2019_06_06 13_02_01 UTC).csprojAssemblyReference.cache
-d:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming1\Console\StudentApp\obj\Debug\netcoreapp2.1\StudentApp (2019_06_06 13_02_01 UTC).csproj.CoreCompileInputs.cache
-d:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming1\Console\StudentApp\obj\Debug\netcoreapp2.1\StudentApp (2019_06_06 13_02_01 UTC).AssemblyInfoInputs.cache
-d:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming1\Console\StudentApp\obj\Debug\netcoreapp2.1\StudentApp (2019_06_06 13_02_01 UTC).AssemblyInfo.cs
-d:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming1\Console\StudentApp\obj\Debug\netcoreapp2.1\StudentApp (2019_06_06 13_02_01 UTC).dll
-d:\Documents\Lasalle\2019.2-summer\ObjectOrientedProgramming1\Console\StudentApp\obj\Debug\netcoreapp2.1\StudentApp (2019_06_06 13_02_01 UTC).pdb
